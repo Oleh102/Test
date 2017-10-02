@@ -22,8 +22,12 @@ class Main {
 		}
 
 		System.out.println("Longest: " + max +"\nShortest: "+min);
-		}
+		
+	}
 }
+
+
+
 
 
 
